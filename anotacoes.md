@@ -1,4 +1,4 @@
-PROJETO SITE ESAT
+PROJETO
 
 - [X] yarn create @vitejs/app my-project
 
