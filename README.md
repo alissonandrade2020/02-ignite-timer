@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src=".github/logo.png" alt="Ignite Timer" title="Ignite Timer" />
+  <img src="https://github.com/BrunoBecoski/Ignite-ReactJS-02-Ignite-Timer/raw/main/.github/logo.png" alt="Ignite Timer" title="Ignite Timer" />
 </h1>
 
 <span align="center">
-  <img src=".github/capa.png" alt="Capa Timer" title="Capa Ignite Timer" />
+  <img src="https://github.com/BrunoBecoski/Ignite-ReactJS-02-Ignite-Timer/raw/main/.github/capa.png" alt="Capa Timer" title="Capa Ignite Timer" />
 </span>
 
 ## ✨ Tecnologias
